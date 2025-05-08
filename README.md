@@ -51,7 +51,7 @@ A professional machine learning pipeline application for financial data analysis
 - Python 3.8+
 - Dependencies listed in requirements.txt
 
-#streamlit Link
+##streamlit Link
 - https://visual-data-pro-h5ho5kel44rapdbsowrnth.streamlit.app/
 
 # Instructor Information
